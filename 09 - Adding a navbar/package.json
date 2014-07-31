@@ -1,0 +1,24 @@
+{
+  "name": "new-app",
+  "version": "0.0.0",
+  "description": "Demo app for training.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "license": "MIT",
+  "dependencies": {
+    "ampersand-domthing-mixin": "^0.1.0",
+    "ampersand-router": "^1.0.1",
+    "ampersand-view": "^6.0.8",
+    "ampersand-view-switcher": "^1.0.2",
+    "domready": "^1.0.5",
+    "domthing": "^0.1.1",
+    "getconfig": "^0.3.0",
+    "hapi": "^6.0.2",
+    "moonboots_hapi": "^2.3.2",
+    "stylizer": "^0.7.0",
+    "templatizer": "^0.3.6"
+  }
+}

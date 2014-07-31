@@ -1,0 +1,23 @@
+{
+  "name": "training-app",
+  "version": "0.0.0",
+  "description": "My awesome thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henrikjoreteg/testing"
+  },
+  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henrikjoreteg/testing/issues"
+  },
+  "homepage": "https://github.com/henrikjoreteg/testing",
+  "dependencies": {
+    "hapi": "^6.0.2",
+    "moonboots_hapi": "^2.3.1"
+  }
+}
